@@ -14,12 +14,13 @@ Education
 Technical Skills
 
 - Python (Beginner)
+- java basics 
 - Data Structures
 - Database Management Systems
 
 Academic Project
 
-Face Anti-Spoofing
+Face Anti-Spoofing preventing false facial expressions 
 
 - Worked on a security-related academic project focused on preventing fraudulent facial authentication.
 
@@ -35,6 +36,6 @@ Strengths
 - Hardworking
 - Teamwork
 
-Contact
+Contact : 6281190879
 
-- Email: Add your professional email here.
+- Email: nikhithagorige.
